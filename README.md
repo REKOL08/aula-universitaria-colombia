@@ -2,6 +2,12 @@
 
 Portal de tres herramientas educativas independientes, gratuitas y utilizables directamente desde el navegador. No requiere registro, instalación ni claves de API.
 
+## Estado y ubicación del trabajo
+
+Por decisión del propietario del 30 de octubre de 2026, este trabajo queda conservado y documentado en estos repositorios independientes de GitHub. No se incorpora a ALLSoft, su sitio, navegación, código ni documentación. Se detiene la ampliación de esta iniciativa hasta una nueva solicitud. Los sitios de GitHub Pages ya publicados se conservan.
+
+Los repositorios de cada herramienta contienen su código, instrucciones de agente, documentación y pruebas. Este repositorio conserva la presentación y la documentación de coordinación.
+
 **Entrada:** https://rekol08.github.io/aula-universitaria-colombia/
 
 | Herramienta | Uso | Código y documentación |
