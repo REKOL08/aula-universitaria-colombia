@@ -18,7 +18,9 @@ Las consultas generan guías de trabajo por disciplina, no respuestas factuales 
 
 Abre `../Universidad.code-workspace` en la carpeta local de entrega: contiene cuatro repositorios separados. Cada repositorio incluye un `AGENTS.md` con su especialidad, alcance y mantenimiento. Esos archivos orientan futuras sesiones de agentes; no son agentes ejecutándose permanentemente en GitHub Pages. El workspace es una configuración local y no es necesaria para estudiantes.
 
-El portal contiene `index.html` y `style.css`, sin compilación ni dependencias. Para previsualizar, sirve la carpeta con cualquier servidor estático (por ejemplo `python -m http.server 8765` si tienes Python como desarrollador). Los visitantes solo abren el enlace publicado.
+El portal contiene `index.html`, `style.css` y `app.js`, sin compilación ni dependencias. El selector «Hoy necesito…» cambia la orientación y el enlace al proyecto correspondiente. Las tarjetas siguen siendo accesibles sin JavaScript. Para previsualizar, sirve la carpeta con cualquier servidor estático (por ejemplo `python -m http.server 8765` si tienes Python como desarrollador). Los visitantes solo abren el enlace publicado.
+
+La presentación usa tres nombres para orientar al estudiante: **Explora** (consultas), **Resuelve** (ejercicios) y **Comprueba** (laboratorio). No son modelos de IA adicionales ni agentes ejecutándose en Pages. Cada ficha explica especialidad, capacidades, ejemplo y alcance. Consulta [la documentación de presentación](docs/PRESENTACION.md).
 
 ## Publicación y mantenimiento
 
